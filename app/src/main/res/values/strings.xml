@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">FirstJetpackCompose</string>
+	<string name="error_description">Error Description</string>
+	<string name="btn_submit">Submit</string>
+</resources>
